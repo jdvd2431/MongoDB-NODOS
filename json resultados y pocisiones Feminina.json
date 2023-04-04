@@ -1,0 +1,83 @@
+[{"Rama Femenina":[{
+    "Encuentro numero": 6,
+    "Clubes encuentro":{
+      "Nombre 1":"Motropolitano",
+      "Nombre 2":"Avivas"
+    },
+    "Deportistas":{
+      "Nombre 1":"Sara Moreno",
+      "Nombre 2":"Mariana Chamorro"
+    },
+    "Tiempos":{
+      "Desportista 1":17.933,
+      "Desportista 2":17.113
+    },
+    "Rama":"F",
+    "Arbitro Encargado":"Willian Rodrguez"
+  },{
+    "Encuentro numero": 7,
+    "Clubes encuentro":{
+      "Nombre 1":"Motropolitano",
+      "Nombre 2":"Bogota Elite"
+    },
+    "Deportistas":{
+      "Nombre 1":"Alejandra Moreno",
+      "Nombre 2":"Mariana Chaparro"
+    },
+    "Tiempos":{
+      "Desportista 1":18.933,
+      "Desportista 2":18.613
+    },
+    "Rama":"F",
+    "Arbitro Encargado":"Willian Rodrguez"
+    },
+    {
+      "Encuentro numero": 8,
+    "Clubes encuentro":{
+      "Nombre 1":"Skate ned",
+      "Nombre 2":"Motropolitano"
+    },
+    "Deportistas":{
+      "Nombre 1":"Melisa Hernadez",
+      "Nombre 2":"Deina Moreno"
+    },
+    "Tiempos":{
+      "Desportista 1":18.423,
+      "Desportista 2":19.213
+    },
+    "Rama":"F",
+    "Arbitro Encargado":"Willian Rodrguez"
+    },
+  {
+    "Encuentro numero": 9,
+    "Clubes encuentro":{
+      "Nombre 1":"Avivas",
+      "Nombre 2":"Avivas"
+    },
+    "Deportistas":{
+      "Nombre 1":"Damiela Castro",
+      "Nombre 2":"Mariana Chamorro"
+    },
+    "Tiempos":{
+      "Desportista 1":19.933,
+      "Desportista 2":19.963
+    },
+    "Rama":"F",
+    "Arbitro Encargado":"Willian Rodrguez"
+  },{
+    "Encuentro numero": 10,
+    "Clubes encuentro":{
+      "Nombre 1":"Avivas",
+      "Nombre 2":"Skate ned"
+    },
+    "Deportistas":{
+      "Nombre 1":"Laura Lando",
+      "Nombre 2":"Tania Rodriguez "
+    },
+    "Tiempos":{
+      "Desportista 1":20.073,
+      "Desportista 2":20.093
+    },
+    "Rama":"F",
+    "Arbitro Encargado":"Willian Rodrguez"
+}]}]

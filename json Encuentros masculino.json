@@ -1,0 +1,63 @@
+[{
+    "Encuentro numero": 1,
+    "Clubes encuentro":{
+      "Nombre 1":"Avivas",
+      "Nombre 2":"Metropolitano"
+    },
+    "Deportistas":{
+      "Nombre 1":"Brayan Lando",
+      "Nombre 2":"Julian Velasquez"
+    },
+    "Rama":"M",
+    "Arbitro Encargado":"Henando Henao"
+  },{
+    "Encuentro numero": 2,
+    "Clubes encuentro":{
+      "Nombre 1":"Elite",
+      "Nombre 2":"Metropolitano"
+    },
+    "Deportistas":{
+      "Nombre 1":"Sanrtiango Bernal",
+      "Nombre 2":"Juan Caceres"
+    },
+    "Rama":"M",
+    "Arbitro Encargado":"Henando Henao"
+    },
+    {
+      "Encuentro numero": 3,
+    "Clubes encuentro":{
+      "Nombre 1":"Talento en linea",
+      "Nombre 2":"Skate ned"
+    },
+    "Deportistas":{
+      "Nombre 1":"Josep Ladino",
+      "Nombre 2":"Felipe Rodriguez"
+    },
+    "Rama":"M",
+    "Arbitro Encargado":"Henando Henao"
+    },
+  {
+    "Encuentro numero": 4,
+    "Clubes encuentro":{
+      "Nombre 1":"Cobos DC",
+      "Nombre 2":"Avivas"
+    },
+    "Deportistas":{
+      "Nombre 1":"David Mendoza",
+      "Nombre 2":"Yurny Yorban"
+    },
+    "Rama":"M",
+    "Arbitro Encargado":"Henando Henao"
+  },{
+    "Encuentro numero": 5,
+    "Clubes encuentro":{
+      "Nombre 1":"Elite",
+      "Nombre 2":"Skate ned"
+    },
+    "Deportistas":{
+      "Nombre 1":"Sebastian Montealegre",
+      "Nombre 2":"Marlon Rodriguez"
+    },
+    "Rama":"M",
+    "Arbitro Encargado":"Henando Henao"
+    }]

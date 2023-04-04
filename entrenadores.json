@@ -1,0 +1,21 @@
+{
+  "hosts" : [
+    "CO-L300530:20000",
+    "CO-L300530:20001",
+    "CO-L300530:20002"
+  ],
+  "setName" : "myReplicaSet",
+  "setVersion" : 1,
+  "ismaster" : true,
+  "secondary" : false,
+  "primary" : "Irensaga-2.local:20012",
+  "me" : "Irensaga-2.local:20012",
+  "electionId" : ObjectId("56cec22a000000000000000a"),
+  "maxBsonObjectSize" : 16777216,
+  "maxMessageSizeBytes" : 48000000,
+  "maxWriteBatchSize" : 1000,
+  "localTime" : ISODate("2023-04-04T01:32:31.833Z"),
+  "maxWireVersion" : 4,
+  "minWireVersion" : 0,
+  "ok" : 1
+}
